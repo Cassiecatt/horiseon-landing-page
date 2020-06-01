@@ -1,0 +1,37 @@
+h1 {text-align: center;
+}
+.red {
+    color: red;
+}
+.blue {
+    color: blue;
+}
+.green {
+    color: green;
+}
+.big {
+    font-size: 30px;
+}
+.tiny {
+    font-size: 10px;
+}
+.center {
+    text-align: center;
+}
+.bold {
+    font-weight: bold;
+}
+.font {
+    font-family: "comic sans ms", cursive, sans-serif
+}
+.multiple {
+    font-size: 25px; color: orange; font-weight: bold;
+}
+.styledFont {
+    font-style: italic; color: green; 
+}
+#styledImage {
+    border-width: thick;
+    border-style: solid;
+    border-color: orange;
+}
